@@ -1,0 +1,4 @@
+2025-02-18 23:55:57,585 - INFO - \U0001f680 Sentiment Analysis API is starting...
+2025-02-18 23:55:57,867 - INFO - \u2705 Model and vectorizer loaded successfully!
+2025-02-19 00:12:01,929 - INFO - \U0001f4dd Received text for sentiment analysis: I love this product!
+2025-02-19 00:12:01,975 - INFO - \u2705 Sentiment prediction: Positive

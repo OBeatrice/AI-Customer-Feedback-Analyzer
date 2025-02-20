@@ -106,7 +106,7 @@ API will be available at [`http://127.0.0.1:8000`](http://127.0.0.1:8000)
 ## 🎯 Author
 **👨‍💻 Layinka Awofisayo**
 - GitHub: [@OBeatrice](https://github.com/OBeatrice)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/olayinka-awofisayo-92a10624b/)
 
 ---
 
